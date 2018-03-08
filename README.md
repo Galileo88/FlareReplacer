@@ -1,4 +1,4 @@
-#FlareReplacer
+## FlareReplacer
 
 FlareReplacer replaces the stock sun flare, without requiring Scatterer. 
 CC BY-NC-ND
@@ -7,9 +7,9 @@ CC BY-NC-ND
 
 There are currently only 3 sun flares available for this mod. Screenshots are in the OP of the forum thread.
 
-##To install:
-* 1. Drop the FlareReplacer Folder into your GameData folder
-* 2. Install the latest Kopernicus (https://github.com/Kopernicus/Kopernicus/releases/)
+## To install:
+1. Drop the FlareReplacer Folder into your GameData folder
+2. Install the latest Kopernicus (https://github.com/Kopernicus/Kopernicus/releases/)
 
 
 
