@@ -1,4 +1,5 @@
 ## FlareReplacer
+for KSP 1.3.1
 
 FlareReplacer replaces the stock sun flare, without requiring Scatterer. 
 CC BY-NC-ND
