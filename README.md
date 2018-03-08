@@ -5,7 +5,7 @@ CC BY-NC-ND
 
 **this mod is not compatible with scatterer. It is for people who cannot run scatterer due to it's performance hit.**
 
-There are currently only 3 sun flares available for this mod. Screenshots are in the OP of the forum thread.
+There are currently 8 sun flares available for this mod. Screenshots are in the OP of the forum thread.
 
 ## To install:
 1. Drop the FlareReplacer Folder into your GameData folder
